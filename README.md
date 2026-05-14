@@ -24,4 +24,5 @@ A clean index of the practical files in this repository.
 | Exp 4 | [Exp 4 Rayleigh-BER.matlab](./noor/Exp%204%20Rayleigh-BER.matlab) | BER simulation for BPSK in Rayleigh fading |
 | Exp 5 | [Exp 5 DHCP Commands.md](./noor/Exp%205%20DHCP%20Commands.md) | DHCP command reference |
 | Exp 5 | [Exp 5 DHCP guide.md](./noor/Exp%205%20DHCP%20guide.md) | DHCP setup guide |
+| Exp 6, 7 | [Exp 6 7.md](./noor/Exp%206%207.md) | Run jnlp files |
 | Exp 8 | [Exp 8 TCP Sockets.py](./noor/Exp%208%20TCP%20Sockets.py) | TCP file transfer using server/client sockets |
